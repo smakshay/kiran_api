@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2024-05-26T07:24:19.0019972Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-05-26T07:24:22.6813922Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "fd354fa5-7506-4626-b14d-9bd32c9a8c5c"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "airlineAzure_group"
+    }
+  }
+}
