@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name:'Azuren Pipelines'
+  name:'Azure Pipelines'
 
 steps:
 - script: echo "pipeline triggered"
