@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'windows-latest'
+  name: 'airline_host'
 
 variables:
   solution: '**/*.sln'
