@@ -1,0 +1,9 @@
+trigger:
+- '*'
+
+pool:
+  name:'Azure Pipelines'
+
+steps:
+- script: echo "pipeline triggered"
+  displayName: 'Echo Pipeline Triggered'
