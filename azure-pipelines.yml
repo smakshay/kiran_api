@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-latest'
+  name:'Azuren Pipelines'
 
 steps:
 - script: echo "pipeline triggered"
